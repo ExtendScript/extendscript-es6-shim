@@ -1,0 +1,34 @@
+{
+  "name": "extendscript-es6-shim",
+  "version": "0.0.1",
+  "description": "a collection of useful es6-shims for Extendscript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle":"node bin/concat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExtendScript/extendscript-es6-shim.git"
+  },
+  "keywords": [
+    "Extendscript",
+    "ES6",
+    "shim",
+    "sham",
+    "prototype"
+  ],
+  "contributers": [
+    "Fabian Morón Zirfas <fabian.moron.zirfas@gmail.com> (http://fabianmoronzirfas.me)",
+    "EugenTepin",
+    "andyinabox"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ExtendScript/extendscript-es6-shim/issues"
+  },
+  "homepage": "https://github.com/ExtendScript/extendscript-es6-shim#readme",
+  "devDependencies": {
+    "cat": "^0.2.0"
+  }
+}
