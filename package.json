@@ -30,5 +30,9 @@
   "homepage": "https://github.com/ExtendScript/extendscript-es6-shim#readme",
   "devDependencies": {
     "cat": "^0.2.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
 }

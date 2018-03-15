@@ -6,7 +6,7 @@ A collection of ES6 shims for polyfiling Exendscript (for es5 shims take a look 
 Currently you can install the package using npm:  
     
     npm init -y
-    npm install git+https://github.com/ExtendScript/extendscript-es6-shim.git
+    npm install extendscript-es6-shim
 
 ## Usage
 
