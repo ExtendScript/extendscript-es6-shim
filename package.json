@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "bundle":"node bin/concat.js"
+    "bundle": "node bin/concat.js"
   },
   "repository": {
     "type": "git",
