@@ -4,7 +4,7 @@
   "description": "a collection of useful es6-shims for Extendscript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 0",
     "bundle": "node bin/concat.js"
   },
   "repository": {
